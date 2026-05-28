@@ -1,5 +1,3 @@
-### Project 01: Create VPC, subnets, route tables, security groups, internet gateway, ec2 instances in subnets
-### Project 02: Create VPC, subnets, route tables, security groups, internet gateway, ec2 instances in subnets
 ### Project 03: Create a lambda function using a zip file with multiple Javascript script files
 
 terraform {
