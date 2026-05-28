@@ -1,0 +1,7 @@
+Project 04
+Simple Lambda function with API Gateway trigger
+
+01: Use a simple javascript file main.js, archive, use it 
+    in a Lambda function
+
+02: Create a rest_api, integrate it with Lambda function
